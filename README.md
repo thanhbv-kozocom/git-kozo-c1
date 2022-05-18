@@ -16,3 +16,4 @@
    (The `XX` of Mr.TanTH is `03` and the `XX` of Mr.AnLVT is `04`)
 2. Create these new files `.gitignore, test.local, env.local`.
 3. Implement to ignore these folders `vendor, node_modules` and all files has the end name by `.local` but excepting the file `test.local`.
+4. Push and create a new pull request on the Github.
