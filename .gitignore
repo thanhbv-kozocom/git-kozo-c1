@@ -1,2 +1,4 @@
 *.local
 !test.local
+vendor
+node_modules
